@@ -1,4 +1,4 @@
-name: ci-golang-workflow
+name: ci-node-workflow
 on: [push]
 jobs:
   check-application:
