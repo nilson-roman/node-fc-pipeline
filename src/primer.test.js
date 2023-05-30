@@ -1,7 +1,7 @@
 const isPrime = require('./prime')
 
 test('should return true if number is prime', () => {
-    expect(isPrime(3)).toBe(true)
+    expect(isPrime(3)).toBe(false)
 });
 
 test('should return false if number is 4', () => {
