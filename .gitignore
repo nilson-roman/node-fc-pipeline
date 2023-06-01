@@ -3,3 +3,6 @@ coverage
 
 # Modules
 node_modules
+
+# Sonarqube
+.scannerwork
