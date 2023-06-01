@@ -35,6 +35,7 @@ jobs:
           tags: steamroman/node-fc-pipeline:latest
 
   sonarcloud:
+    needs: check-application
     name: SonarCloud
     runs-on: ubuntu-latest
     steps:
