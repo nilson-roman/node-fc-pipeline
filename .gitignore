@@ -1,7 +1,5 @@
-# Jest Coverage
-coverage/lcov-report
-coverage/clover.xml
-coverage/coverage-final.json
+# Jest
+coverage
 
 # Modules
 node_modules
