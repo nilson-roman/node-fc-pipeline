@@ -2,6 +2,7 @@ name: ci-node-workflow
 on: 
   pull_request:
     branches:
+      - main
       - develop
 
 jobs:
